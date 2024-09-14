@@ -39,6 +39,6 @@ public class hooks {
 	@After
 	public void afterMethod()
 	{
-		driver.quit();
+		//driver.quit();
 	}
 }
