@@ -1,6 +1,6 @@
 # teladoc
 **Selenium-Cucumber-Java**
-This repository contains a Cucumber BDD Project which contain two test scenarios as :
+This repository contains a Cucumber BDD Project which contain two test scenarios for Website : https://www.way2automation.com/angularjs-protractor/webtables/
 
 Scenario 1
 Add a user and validate the user has been added to the table
